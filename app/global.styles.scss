@@ -1,0 +1,13 @@
+@import 'public/theme/tailwind';
+@import 'public/theme/colours';
+@import 'public/theme/typography';
+
+
+.ant-layout {
+  background-color: $white;
+
+  .ant-layout-content {
+    background-color: $light-grey;
+    min-height: calc(100vh - 161px);
+  }
+}
