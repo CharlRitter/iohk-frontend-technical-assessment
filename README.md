@@ -25,3 +25,13 @@ No need to deploy this as long as it runs locally that's fine.
 | Robert | Pullman  | 456    | Male   | German  | 2          | 5/4/1999   |
 | Chun Li| Suzuki   | 987    | Female | China   | 1          | 11/9/2001  |
 | Sarah  | Van Que  | 587    | Female | Latvia  | 4          | 6/22/1989  |
+
+## Getting Started
+
+To run this application, run `yarn install` in your terminal and `yarn dev` to start the dev server.
+
+## To Do
+Some nice to have's that I didn't get to
+
+- Add storybook.
+- Delve deeper into theming of the app.
