@@ -12,7 +12,7 @@
     "prepare": "husky",
     "sort-package": "yarn sort-package-json",
     "start": "next start",
-    "test": "yarn playwright test",
+    "test": "yarn build && playwright test",
     "test:report": "yarn playwright show-report",
     "test:ui": "yarn playwright test --ui"
   },
