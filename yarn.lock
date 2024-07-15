@@ -3667,7 +3667,7 @@ __metadata:
     react-dom: "npm:^18"
     react-icons: "npm:^5.2.1"
     recharts: "npm:^2.12.7"
-    sass: "npm:^1.77.3"
+    sass: "npm:^1.77.8"
     sort-package-json: "npm:^2.10.0"
     style-loader: "npm:^4.0.0"
     stylelint: "npm:^16.6.1"
@@ -6241,16 +6241,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.77.3":
-  version: 1.77.3
-  resolution: "sass@npm:1.77.3"
+"sass@npm:^1.77.8":
+  version: 1.77.8
+  resolution: "sass@npm:1.77.8"
   dependencies:
     chokidar: "npm:>=3.0.0 <4.0.0"
     immutable: "npm:^4.0.0"
     source-map-js: "npm:>=0.6.2 <2.0.0"
   bin:
     sass: sass.js
-  checksum: 10c0/131469168a4c41f9c3eeaac8a91b3ada0ff4746c8588ce1bc4b819c9245281075a895d5fc74f6edeeb32142a572af8a0799bd0ae698614a1fcfcfbd97b0b1256
+  checksum: 10c0/2bfd62794070352c804f949e69bd8bb5b4ec846deeb924251b2c3f7b503170fb1ae186f513f0166907749eb34e0277dee747edcb78c886fb471aac01be1e864c
   languageName: node
   linkType: hard
 
